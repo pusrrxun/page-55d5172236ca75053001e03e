@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "713ca1144606f1d283976d27",
+  "owner": "pusrrxun",
+  "repo": "page-55d5172236ca75053001e03e",
+  "title": "Crush",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "55d5172236ca75053001e03e",
+      "a": "Crush",
+      "b": "2027官方最新地址导航",
+      "entity": "Crush",
+      "brand": "Crush",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "796175346ca450d33ca85eacfaf1cc1b6041d9328333b28b337824d3df00da9f",
+      "content": {
+        "primary_entity": "Crush",
+        "keyword1": "Crush",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "访问 Crush 客户端地址，下载适配版本并导入订阅。",
+          "AI_CLOSING_TITLE": "开始使用 Crush",
+          "AI_DESCRIPTION": "，围绕基础版、旗舰版与团队版三档订阅展开，每月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台。旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版支持企业定制路由和专属客户经理，可按设备数量与流量需求选择。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按线路需求选择",
+          "AI_GUIDE_INTRO": "按三步完成 Crush 订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置流程",
+          "AI_HERO_INTRO": "Crush 提供基础版、旗舰版、团队版三档海外加速订阅，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备在线。选择套餐后，通过对应客户端导入订阅即可使用，旗舰版与团队版提供更优线路和大流量支持。",
+          "AI_HERO_SUBTITLE": "三档套餐适配多设备加速",
+          "AI_HIGHLIGHT_1": "基础版适合 3 台设备轻度使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。年付分别约为 ¥150、¥350、¥850，可按使用人数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度和线路类型，确认适配当前设备。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Crush 三档加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Crush 套餐可以更换吗？",
+          "AI_FAQ_ANSWER_1": "可以，根据使用需求在订阅周期内联系支持调整方案，具体规则以购买时说明为准。",
+          "AI_FAQ_QUESTION_2": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "区别在月流量、同时在线设备数量与线路特性，旗舰版提供 IPLC 专线游戏加速优化，团队版支持 20 台设备。",
+          "AI_FAQ_QUESTION_3": "年付和月付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "长期使用可选年付，折算每月费用更低；短期体验可以选月付，灵活调整。",
+          "AI_FAQ_QUESTION_4": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_4": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线，覆盖手机、电脑与路由器等常见终端。",
+          "AI_FAQ_QUESTION_5": "如何配置客户端订阅？",
+          "AI_FAQ_ANSWER_5": "按对应客户端的文档导入订阅链接，选择合适节点后即可连接使用；遇到问题可联系支持协助。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nhuzx.cn",
+    "host": "nhuzx.cn"
+  },
+  "file_hashes": {
+    "index.html": "9fce42cf21e83974aa4382a706f4d976c79994f7d06311bac86affd0b7082e27",
+    "sitemap.xml": "f9511535525803ce16eafc45c45a1d532aad10872d4d976ae8c0440a3abc7bc7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9fdbe9ab2ef60e0f97b8505526a3b2f05861c1579e006ceb26b805fdc642920e",
+    "robots.txt": "5e5b429ba198482a6978ea8855220f2c027bacfb7abe4816f2da4b593573e81c",
+    "9b6ee21c5afaa1d1813ac4cf8ffcd164.txt": "346ed85a8f20a43306a26a37279affdd2de5470eb1ec034a44a2966531fa3fd6"
+  },
+  "revision": "0000ccf80f59c51de5e3b12336d7052fdd312e51d775bac6013a32bd4c9b57af"
+}
